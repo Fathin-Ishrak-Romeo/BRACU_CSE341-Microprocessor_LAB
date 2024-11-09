@@ -1,0 +1,14 @@
+.model small
+.stack 100h
+.data
+
+.code
+main proc
+    mov ax, @data
+    mov ds, ax
+    
+    mov ax, 3  ;A = 3
+    mov bx, 4  ;B = 4
+    
+    sub bx, ax ;B = B - A
+    mov ax, bx ;A = B - A
