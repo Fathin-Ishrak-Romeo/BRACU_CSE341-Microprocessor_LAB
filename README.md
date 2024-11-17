@@ -1,3 +1,9 @@
 # LAB 01
-Use of General Purpose Registers (AX, BX, CX, DX) <br>
-Use of MOV, ADD, SUB, MUL, DIV, NEG, DEC, INC operations
+1. Use of General Purpose Registers (AX, BX, CX, DX) <br>
+2. Use of MOV, ADD, SUB, MUL, DIV, NEG, DEC, INC operations
+
+# LAB 02
+1. Single character input from the user
+2. Single character output
+3. String output
+4. Flags
