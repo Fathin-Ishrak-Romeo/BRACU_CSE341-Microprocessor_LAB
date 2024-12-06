@@ -1,6 +1,7 @@
 # LAB 01
 1. Use of General Purpose Registers (AX, BX, CX, DX) <br>
 2. Use of MOV, ADD, SUB, MUL, DIV, NEG, DEC, INC operations <br>
+
 <b>Tutorial:</b> [EMU8086 Assembly Language | Arithmetic Operations by Hamim Nasim](https://www.youtube.com/watch?v=5bEnEsh542Q&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=2)
 
 # LAB 02
