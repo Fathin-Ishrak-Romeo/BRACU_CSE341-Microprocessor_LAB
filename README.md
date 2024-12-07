@@ -7,7 +7,9 @@
 # LAB 02 (I/O in Assembly Language)
 1. Single character input from the user
 2. Single character output
-3. String output
-4. Flags <br>
+3. String (Multicharacter) output
+4. Newline instruction
+5. Carriage return instruction
+6. Flags <br>
 
 <b>Tutorial:</b> [Basic I/O in EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=JkSpvp_nbe0&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=2)
