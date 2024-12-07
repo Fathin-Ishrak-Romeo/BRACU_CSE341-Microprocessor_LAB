@@ -13,3 +13,13 @@
 6. Flags <br>
 
 <b>Tutorial:</b> [Basic I/O in EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=JkSpvp_nbe0&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=2)
+
+# LAB 03 (Flow Control & Branching in Assembly Language)
+1. CMP operation
+2. JMP operations (JE, JG, JL, JGE, JLE)
+3. Conditional jump
+4. Issue with conditional jump
+5. Unconditional jump (A solution to conditional jump problem)
+6. Handling else-if condition <be>
+
+<b>Tutorial:</b> [Branching Structures in EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=Wk08BKfHPVA&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=3)
