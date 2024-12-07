@@ -14,4 +14,5 @@ main proc
                    ;store the ascii value in dx
     mov ah, 2      ;single character output instruction
     int 21h        ;checks if ah == 2. yes, then value store in dx will appear in a prompt
+                   ;output value can only be accessed from dx register
                       
