@@ -10,7 +10,7 @@ main proc
     
     ;code
     mov ax, 0FFFFh   ;multiplicand always be in ax
-    mov bx, 2        ;multiplier in decimal
+    mov bx, 2        ;multiplier in decimal, can also be in hex/bin
     mul bx           ;ax = ax * bx = 0FFFFh * 2 = 1FFFE
                      ;ax, bx both are 16-bit registers
                      ;here, max size of the product can be 16+16=32 bits
