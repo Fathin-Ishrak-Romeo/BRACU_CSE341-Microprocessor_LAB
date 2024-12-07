@@ -54,8 +54,7 @@ main proc
                   ;in order to addtion operation, we would add to the subtracted result to convert ascii form the actual value
                                               
     
-    ; 
-    ;showing output from the new line                      
+    ;                      
     ;carriage return instruction
     mov dl, 13   
     mov ah, 2
@@ -67,7 +66,8 @@ main proc
     int 21h                 
     ;
                           
-                          
+
+    ;showing output from the new line 
     mov ah, 9     ;string output instruction
     lea dx, sum   ;loading the memory address of the first character of the string to dx
                   ;it starts reading the string from the first character address
