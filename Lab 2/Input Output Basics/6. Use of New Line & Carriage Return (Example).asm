@@ -50,7 +50,7 @@ main proc
                   ;but our desired output is 1 (ascii 49)
 
     ;ascii to actual value conversion
-    add bl, 48    ;here 48 is add to the ascii form to get the actual value
+    add bl, 48    ;here 48 is added to the ascii form to get the actual value
                   ;in order to addtion operation, we would add to the subtracted result to convert ascii form the actual value
                                               
     
