@@ -1,3 +1,5 @@
+;Question: 236DF * AF
+
 .model small
 .stack 100h
 .data
