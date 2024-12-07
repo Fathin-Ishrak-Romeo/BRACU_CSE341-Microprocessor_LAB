@@ -14,7 +14,7 @@ main proc
     mov ds, ax
     
     ;code:
-    mov ax, 5
+    mov ax, 6
     mov bx, 6
     
     ;conditional jump:
