@@ -25,8 +25,7 @@ main proc
      
      
                            
-    ; 
-    ;taking second input from the new line                      
+    ;                       
     ;new line instruction  
     mov dl, 10    ;ascii 10 is used for moving the cursor to new line
                   ;but the position of the cursor remains the same
@@ -41,7 +40,8 @@ main proc
                   ;if we use carriage return before newline instruction, it'll work as same
     ;
                
-                                 
+
+    ;taking second input from the new line
     mov ah, 1           
     int 21h       ;second input = 1 (ascii 49)
     sub bl, al    ;bl = bl - al = 50 - 49 = ascii 001
