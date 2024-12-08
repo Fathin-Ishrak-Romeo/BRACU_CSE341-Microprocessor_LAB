@@ -23,3 +23,6 @@
 6. Handling else-if condition <be>
 
 <b>Tutorial:</b> [Branching Structures in EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=Wk08BKfHPVA&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=3)
+
+# LAB MID PRACTICE (Lab 01, 02, 03)
+https://www.youtube.com/watch?v=LnyeyMegS_U
