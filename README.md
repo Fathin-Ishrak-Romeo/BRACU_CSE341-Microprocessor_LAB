@@ -26,3 +26,9 @@
 
 # LAB MID PRACTICE (Lab 01, 02, 03)
 https://www.youtube.com/watch?v=LnyeyMegS_U
+
+# LAB 04 (Flow control instructions and Looping structures)
+1. Explicit loop structure
+2. Implicit loop structure
+
+<b>Tutorial:</b> [Loop Structure in EMU8086](https://www.youtube.com/watch?v=Lo8sc5fmtVU&list=PL9aZtK5kh5Wew0eD68a0g-CKIWXINje-k&index=3)
