@@ -20,12 +20,12 @@
 3. Conditional jump
 4. Issue with conditional jump
 5. Unconditional jump (A solution to conditional jump problem)
-6. Handling else-if condition <be>
+6. Handling else-if condition <br>
 
 <b>Tutorial:</b> [Branching Structures in EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=Wk08BKfHPVA&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=3)
 
 # LAB MID PRACTICE
-<b>Topic:</b> Lab 01, Lab 02, Lab 03
+<b>Topic:</b> Lab 01, Lab 02, Lab 03 <br>
 <b>Lecture Video:</b> [MID Review Class by Hamim Nasim](https://www.youtube.com/watch?v=LnyeyMegS_U)
 
 # LAB 04 (Flow control instructions and Looping structures in Assembly Language)
