@@ -26,7 +26,7 @@
 
 # LAB MID PRACTICE
 <b>Topic:</b> Lab 01, Lab 02, Lab 03 <br>
-<b>Lecture Video:</b> [MID Review Class by Hamim Nasim](https://www.youtube.com/watch?v=LnyeyMegS_U)
+<b>Lecture Video:</b> [LAB MID Review Class by Hamim Nasim](https://www.youtube.com/watch?v=LnyeyMegS_U)
 
 # LAB 04 (Flow control instructions and Looping structures in Assembly Language)
 1. Explicit loop structure
