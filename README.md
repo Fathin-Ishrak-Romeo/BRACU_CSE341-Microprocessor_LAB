@@ -24,8 +24,9 @@
 
 <b>Tutorial:</b> [Branching Structures in EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=Wk08BKfHPVA&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=3)
 
-# LAB MID PRACTICE (Lab 01, 02, 03)
-https://www.youtube.com/watch?v=LnyeyMegS_U
+# LAB MID PRACTICE
+<b>Topic:</b> Lab 01, Lab 02, Lab 03
+<b>Lecture Video:</b> [MID Review Class by Hamim Nasim](https://www.youtube.com/watch?v=LnyeyMegS_U)
 
 # LAB 04 (Flow control instructions and Looping structures in Assembly Language)
 1. Explicit loop structure
