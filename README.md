@@ -27,7 +27,7 @@
 # LAB MID PRACTICE (Lab 01, 02, 03)
 https://www.youtube.com/watch?v=LnyeyMegS_U
 
-# LAB 04 (Flow control instructions and Looping structures)
+# LAB 04 (Flow control instructions and Looping structures in Assembly Language)
 1. Explicit loop structure
 2. Implicit loop structure
 
