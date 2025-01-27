@@ -43,3 +43,4 @@
 # LAB 07 (Macros and Procedures in Assembly Language)
 <b>Tutorial:</b> [Macros and Procedure | EMU8086 | Assembly Language by Hamim Nasim](https://www.youtube.com/watch?v=cQ7JHL2n8DA&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=6)
 
+# LAB 08 (Arrays and Addressing Modes in Assembly Language)
