@@ -46,3 +46,5 @@
 # LAB 08 (Arrays and Addressing Modes in Assembly Language)
 
 # LAB 09 (Introduction to EMU8086 Kit)
+
+# LAB 10 (Configuring EMU/MDA8086 Trainer Kit)
