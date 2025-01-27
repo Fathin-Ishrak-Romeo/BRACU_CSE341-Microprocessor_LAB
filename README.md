@@ -35,4 +35,4 @@
 <b>Tutorial:</b> [Loop Structure in EMU8086](https://www.youtube.com/watch?v=Lo8sc5fmtVU&list=PL9aZtK5kh5Wew0eD68a0g-CKIWXINje-k&index=3)
 
 # LAB 05 (Array in Assembly Language)
-<b>Tutorial:</b> [ARRAY in Assembly Language | EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=4wo4csHfabw)
+<b>Tutorial:</b> [ARRAY in Assembly Language | EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=Wi3S59MIwuE&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=5)
