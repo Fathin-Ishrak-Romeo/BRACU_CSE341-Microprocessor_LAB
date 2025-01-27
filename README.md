@@ -36,3 +36,6 @@
 
 # LAB 05 (Array in Assembly Language)
 <b>Tutorial:</b> [ARRAY in Assembly Language | EMU8086 by Hamim Nasim](https://www.youtube.com/watch?v=Wi3S59MIwuE&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=5)
+
+# LAB 06 (Stack In Assembly Language)
+<b>Tutorial:</b> [STACK in Assembly Language | Emu8086 by Hamim Nasim](https://www.youtube.com/watch?v=U6YRqXcJUtk&list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&index=4)
