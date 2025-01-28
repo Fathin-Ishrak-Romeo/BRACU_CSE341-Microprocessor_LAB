@@ -1,6 +1,6 @@
 # Project
 [Digital food ordering system at a restaurant using x86-Assembly Language (User Interface)](https://github.com/Fathin-Ishrak-Romeo/CSE341-Project_Digital-food-ordering-system-at-a-restaurant-using-x86-Assembly-Language)
-## Features
+### Features
 1. The user is greeted with a welcome message.  
 2. All the food categories (breakfast, lunch, dinner, snacks, dinners) are shown to the user.  
 3. The user can select any category or exit the program.  
